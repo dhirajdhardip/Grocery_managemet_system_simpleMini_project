@@ -1,4 +1,4 @@
-                                                                                  🛒 Grocery Management System (Python Mini Project)
+ 🛒 Grocery Management System (Python Mini Project)
 
  About the Project:
 
